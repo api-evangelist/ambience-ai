@@ -1,0 +1,82 @@
+aid: ambience-ai
+name: Ambience Healthcare
+description: >-
+  Ambience Healthcare is a San Francisco-based artificial intelligence company
+  building an AI clinical operating system for hospitals and health systems.
+  The platform is organized as a suite of Pre-Visit, In-Visit, and Post-Visit
+  applications anchored by Ambient Scribe — an ambient AI medical scribe that
+  generates complete, coding-ready medical notes from clinician-patient
+  conversations across 200+ specialties — alongside Chart Chat, Medication
+  Order Assist, Patient Instructions Generator, Referral Letters, Discharge
+  Note Generator, HPI Generator, Assessment & Plan Generator, ED MDM
+  Generator, and a Coding & Revenue Compliance toolset (ICD-10 Code Assist,
+  E/M Code Advisor, HCC Compliance Validator, Modifier 25 Advisor, Add-On
+  Code Assist, Inpatient Level of Service Advisor, ED Critical Care Assist).
+  Ambience embeds inside Epic via the Epic Ambient Module, Hyperdrive, Haiku,
+  Epic Toolbox, and native FHIR APIs (including SMART on FHIR), and also
+  connects to Oracle Cerner and athenahealth for schedule, problem-list, and
+  patient-list sync. Customer enterprises include Cleveland Clinic, UCSF,
+  John Muir Health, Houston Methodist, MultiCare Health System, Ardent
+  Health, Memorial Hermann, The Oncology Institute, GI Alliance, and St.
+  Luke's Health System, with deployments reporting 39–45% reductions in
+  charting time and ~90% clinician utilization. Ambience is OpenAI-backed
+  and valued at roughly $1B; its revenue model is enterprise SaaS sold to
+  health systems and there is no public developer API, SDK, open-source
+  release, or self-serve developer portal — integrations are delivered as a
+  HIPAA-gated managed offering through Epic, Cerner, and athenahealth
+  ecosystems.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Healthcare
+  - Clinical AI
+  - Ambient AI
+  - AI Medical Scribe
+  - Clinical Documentation
+  - Medical Coding
+  - Revenue Cycle
+  - HCC
+  - ICD-10
+  - CPT
+  - Electronic Health Record
+  - EHR Integration
+  - Epic
+  - Cerner
+  - Athenahealth
+  - FHIR
+  - SMART on FHIR
+  - HIPAA
+  - Hospitals
+  - Health Systems
+  - Generative AI
+url: https://raw.githubusercontent.com/api-evangelist/ambience-ai/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.ambiencehealthcare.com
+  - type: Products
+    url: https://www.ambiencehealthcare.com/products
+  - type: Clinicians
+    url: https://www.ambiencehealthcare.com/clinicians
+  - type: Business
+    url: https://www.ambiencehealthcare.com/business
+  - type: Informatics
+    url: https://www.ambiencehealthcare.com/informatics
+  - type: Demo
+    url: https://www.ambiencehealthcare.com/demo
+  - type: Blog
+    url: https://www.ambiencehealthcare.com/blog
+  - type: Careers
+    url: https://www.ambiencehealthcare.com/careers
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ambience-healthcare
+  - type: Twitter
+    url: https://twitter.com/AmbienceHQ
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
